@@ -1,5 +1,5 @@
 #include "fatt h"
-int fatt (int n){ 
+long int fatt (int n){ 
     if(n==1){
 
         return 1;
