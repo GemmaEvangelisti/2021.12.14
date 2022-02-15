@@ -3,5 +3,5 @@ prova esempio.html
 */ 
 
 function Ciao(){
-    alert('Ciao!')
+    alert('Ciao!');
 }
